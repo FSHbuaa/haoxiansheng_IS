@@ -50,7 +50,3 @@ Fresh Produce Supply Chain Information System
 如果你想为该项目做出贡献，
 
 欢迎提交问题报告或拉取请求（Pull Request）。请确保在提交之前遵循项目的贡献指南。
-
-## 许可证
-
-该项目使用 [MIT许可证](LICENSE)进行许可。
